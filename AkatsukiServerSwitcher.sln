@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkatsukiServerSwitcher", "RippleServerSwitcher\AkatsukiServerSwitcher.csproj", "{531FCBC2-A61A-48B3-A296-C7A39E7974AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkatsukiServerSwitcher", "AkatsukiServerSwitcher\AkatsukiServerSwitcher.csproj", "{531FCBC2-A61A-48B3-A296-C7A39E7974AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

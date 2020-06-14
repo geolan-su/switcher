@@ -430,7 +430,7 @@ namespace AkatsukiServerSwitcher
             if (certs.Count > 0)
             {
                 // Certificate already installed, remove it
-                DialogResult yn = MessageBox.Show("Are you sure you want to remove akatsuki's HTTPS certificate?\nThere's no need to remove it, you'll be able to browse both akatsuki and osu!\nwithout any problem even if the certificate is installed and the switcher is off.", "Akatsuki certificate installer", MessageBoxButtons.YesNo);
+                DialogResult yn = MessageBox.Show("Are you sure you want to remove Akatsuki's HTTPS certificate?\nThere's no need to remove it, you'll be able to browse both akatsuki and osu!\nwithout any problem even if the certificate is installed and the switcher is off.", "Akatsuki certificate installer", MessageBoxButtons.YesNo);
                 if (yn == DialogResult.No)
                 {
                     store.Close();
